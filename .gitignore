@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Local settings / logs
+*.log
+settings.json
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
