@@ -2,7 +2,7 @@
 
 A Windows desktop app that finds the most exciting moments in a video automatically and exports them as ready-to-share clips.
 
-<img width="2560" height="1440" alt="Capture" src="https://github.com/user-attachments/assets/3eb6702f-6cb7-4433-8324-aecbd029052b" />
+<img width="2560" height="1440" alt="C3apture" src="https://github.com/user-attachments/assets/9c65be86-11df-4da8-b306-35dbbb179259" />
 
 
 ![Auto-Clipper](assets/app.ico)
