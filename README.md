@@ -26,11 +26,6 @@ Everything runs locally. Nothing is uploaded anywhere.
 
 <img width="2560" height="1440" alt="2Capture" src="https://github.com/user-attachments/assets/22dbb88a-01be-4921-b283-08b87bde5956" />
 
-The built executable is at:
-
-```
-dist\Auto-Clipper.exe
-```
 
 Double-click it to start. On first launch Windows may show a "Windows protected your PC" warning — choose **More info → Run anyway** (the app is unsigned because it was built locally).
 
