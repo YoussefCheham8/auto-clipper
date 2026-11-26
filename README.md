@@ -2,6 +2,9 @@
 
 A Windows desktop app that finds the most exciting moments in a video automatically and exports them as ready-to-share clips.
 
+<img width="2560" height="1440" alt="Capture" src="https://github.com/user-attachments/assets/3eb6702f-6cb7-4433-8324-aecbd029052b" />
+
+
 ![Auto-Clipper](assets/app.ico)
 
 ## What it does
@@ -18,6 +21,8 @@ A Windows desktop app that finds the most exciting moments in a video automatica
 Everything runs locally. Nothing is uploaded anywhere.
 
 ## Download / run
+
+<img width="2560" height="1440" alt="2Capture" src="https://github.com/user-attachments/assets/22dbb88a-01be-4921-b283-08b87bde5956" />
 
 The built executable is at:
 
